@@ -1,4 +1,5 @@
 "use strict";
 
-import styles from "styles.css";
+import styles from "./styles.css";
 
+console.log("Hello!");
